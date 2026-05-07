@@ -1,3 +1,7 @@
 kouta
+<<<<<<< HEAD
 akito
 gi
+=======
+riku
+>>>>>>> d9d69468969b310f37d895d834b7ab11d946570c
